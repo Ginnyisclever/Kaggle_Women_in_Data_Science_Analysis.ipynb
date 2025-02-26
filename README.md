@@ -1,6 +1,7 @@
 # Kaggle_Women_in_Data_Science_Analysis.ipynb
 Kaggle_Women_in_Data_Science_Analysis_task
-Introduction and Objective Data Import and Initial Exploration Data Cleaning and Preparation Data Analysis and Visualization run in colab
+Introduction and Objective Data Import and Initial Exploration Data Cleaning and Preparation Data Analysis and Visualization,
+(Run in colab)
 
 - Age Distribution
 - Geographic Distribution
